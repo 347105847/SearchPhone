@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SearchPhone</string>
+    <string name="se_phong">手机号码归属地查询</string>
+    <string name="se_phong1">手机号码查询</string>
+    <string name="se_phong2">请输入手机号码查询</string>
+    <string name="se_phong3">查询</string>
+    <string name="se_phong4">查询结果</string>
+    <string name="se_phong5">手机号：xxxx</string>
+    <string name="se_phong6">省份：xxxx</string>
+    <string name="se_phong7">运营商：xxxx</string>
+    <string name="se_phong8">归属运营商：xxxx</string>
+</resources>
